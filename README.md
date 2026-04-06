@@ -13,7 +13,7 @@ A React-based finance management dashboard with Admin/User roles and Dark Mode.
 - **Responsive Design:** Fully optimized for desktop, tablet, and mobile screens using CSS Variables.
 
 ## 🛠️ Tech Stack
-- **Frontend:** React 19
+- **Frontend:** React
 - **Styling:** CSS3 (Custom Properties / Flexbox / Grid)
 - **Deployment:** Netlify
 - **Version Control:** Git & GitHub
