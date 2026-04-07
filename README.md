@@ -2,7 +2,7 @@
 A React-based finance management dashboard with Admin/User roles and Dark Mode.
 ###Demo URL:
 - https://github.com/RiteshECC2014043/finance_dashboard_ui
-- finance-pro-dashboard.netlify.app
+- https://finance-pro-dashboard.netlify.app/
 ### 🔑 Demo Credentials
 - **Username:** `admin`
 - **Password:** `admin123`
